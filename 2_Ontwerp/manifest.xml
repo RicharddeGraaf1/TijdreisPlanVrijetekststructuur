@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.overheid.nl/2017/lvbb">
+ <bestand><bestandsnaam>HK_besluit.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>HK_buurtnaam_Oostpolder.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
+ <bestand><bestandsnaam>HK_buurtnaam_Oostpolder.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>HK_owGebiedsaanwijzing.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>HK_owHoofdlijn.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>HK_owKaart.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>HK_owLocatie.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>HK_owRegelingsgebied.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>HK_owTekstdeel.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>manifest-ow.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>manifest.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>opdracht.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+</manifest>

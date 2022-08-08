@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+ xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+ xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+ xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+ xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+ xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+ xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+ xmlns:p="http://www.geostandaarden.nl/imow/pons"
+ xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+ xmlns:r="http://www.geostandaarden.nl/imow/regels"
+ xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+ xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
+ xmlns:op="http://www.geostandaarden.nl/imow/opobject"
+ xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+ xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+ <sl:standBestand>
+  <sl:dataset>irrelevant</sl:dataset>
+  <sl:inhoud>
+   <sl:gebied>irrelevant</sl:gebied>
+   <sl:leveringsId>irrelevant</sl:leveringsId>
+   <sl:objectTypen>
+    <sl:objectType>Gebiedsaanwijzing</sl:objectType>
+   </sl:objectTypen>
+  </sl:inhoud>
+  <sl:stand>
+   <ow-dc:owObject>
+    <ga:Gebiedsaanwijzing>
+     <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.Ongewijzigd</ga:identificatie>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:naam>Ambtsgebied (ongewijzigd)</ga:naam>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
+     <ga:locatieaanduiding>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
+     </ga:locatieaanduiding>
+    </ga:Gebiedsaanwijzing>
+   </ow-dc:owObject>
+  </sl:stand>
+  <sl:stand>
+   <ow-dc:owObject>
+    <ga:Gebiedsaanwijzing>
+     <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.NaamWijziging</ga:identificatie>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:naam>Buitengebied Wieringerwaard (naam wordt gewijzigd)</ga:naam>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
+     <ga:locatieaanduiding>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.BuitengebiedWieringerwaard"/>
+     </ga:locatieaanduiding>
+    </ga:Gebiedsaanwijzing>
+   </ow-dc:owObject>
+  </sl:stand>
+  <sl:stand>
+   <ow-dc:owObject>
+    <ga:Gebiedsaanwijzing>
+     <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.LocatieWijziging</ga:identificatie>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:naam>Oostpolder (locatie wordt gewijzigd)</ga:naam>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
+     <ga:locatieaanduiding>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.Oostpolder"/>
+     </ga:locatieaanduiding>
+    </ga:Gebiedsaanwijzing>
+   </ow-dc:owObject>
+  </sl:stand>
+  <sl:stand>
+   <ow-dc:owObject>
+    <ga:Gebiedsaanwijzing>
+     <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.Beeindiging</ga:identificatie>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:naam>Verspreide Huizen Wieringerwerf (wordt beëindigd)</ga:naam>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
+     <ga:locatieaanduiding>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/>
+     </ga:locatieaanduiding>
+    </ga:Gebiedsaanwijzing>
+   </ow-dc:owObject>
+  </sl:stand>
+  <sl:stand>
+   <ow-dc:owObject>
+    <ga:Gebiedsaanwijzing>
+     <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.IntrekkenVervangen</ga:identificatie>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:naam>VerspreideHuizenKreileroord (wordt gewijzigd bij intrekken en vervangen)</ga:naam>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
+     <ga:locatieaanduiding>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenKreileroord"/>
+     </ga:locatieaanduiding>
+    </ga:Gebiedsaanwijzing>
+   </ow-dc:owObject>
+  </sl:stand>
+  <sl:stand>
+   <ow-dc:owObject>
+    <ga:Gebiedsaanwijzing>
+     <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.BeeindigingNavIntrVerv</ga:identificatie>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:naam>Verspreide Huizen Middenmeer (wordt beëindigd bij intrekken en vervangen)</ga:naam>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
+     <ga:locatieaanduiding>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenMiddenmeer"/>
+     </ga:locatieaanduiding>
+    </ga:Gebiedsaanwijzing>
+   </ow-dc:owObject>
+  </sl:stand>
+  <sl:stand>
+   <ow-dc:owObject>
+    <ga:Gebiedsaanwijzing>
+     <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.Herleven</ga:identificatie>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:naam>Verspreide Huizen Slootdorp (beëindigd per 04-04, herleefd per 07-07)</ga:naam>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/functie/id/concept/Overig</ga:groep>
+     <ga:locatieaanduiding>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenSlootdorp"/>
+     </ga:locatieaanduiding>
+    </ga:Gebiedsaanwijzing>
+   </ow-dc:owObject>
+  </sl:stand>
+ </sl:standBestand>
+</ow-dc:owBestand>
