@@ -8,8 +8,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/gm1911/2022/buurten_5</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm1911/2022/buurten_5/nld@2022</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/gm1911/2022/Oostpolder</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm1911/2022/Oostpolder/nld@2022;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Oostpolder</geo:naam>

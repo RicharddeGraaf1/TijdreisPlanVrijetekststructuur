@@ -2,8 +2,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/gm1911/2022/buurten_5</FRBRWork>
-      <FRBRExpression>/join/id/regdata/gm1911/2022/buurten_5/nld@2022</FRBRExpression>
+      <FRBRWork>/join/id/regdata/gm1911/2022/Oostpolder</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm1911/2022/Oostpolder/nld@2022;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,7 +12,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>HK_buurtnaam_Oostpolder.gml</bestandsnaam>
-            <hash>a1698b1a2dcbd7d6e96afe737a26d92c9c382fff988933687b20e9e6b9dd8a04caad7992da0cd903dede5e2d514d54e2dd182aacc716eea71697e504f6e85ab2</hash>
+            <hash>b043c5d03b1053968c2de5755a3bc0567c8c7d0bfdd7e138370b6ad76fd1d487a1965c12383d10428a9c501dd2fd561a713cdcfca21b8aa09b3eaca82ce0a83b</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -23,7 +23,7 @@
       <alternatieveTitels>
         <alternatieveTitel/>
       </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm1911/2022/buurten_5</officieleTitel>
+      <officieleTitel>/join/id/regdata/gm1911/2022/Oostpolder</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <naamInformatieObject>Oostpolder</naamInformatieObject>

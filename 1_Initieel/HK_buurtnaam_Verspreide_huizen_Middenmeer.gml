@@ -8,8 +8,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/gm1911/2022/buurten_3</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm1911/2022/buurten_3/nld@2022</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer/nld@2022;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Verspreide huizen Middenmeer</geo:naam>

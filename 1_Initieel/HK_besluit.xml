@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.2.0"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+   <BesluitVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/bill/gm1911/2022/HollandsKroonEersteTijdreisplan</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/gm1911/2022/HollandsKroonEersteTijdreisplan/nld@2022</FRBRExpression>
+         <soortWork>/join/id/stop/work_003</soortWork>
+      </ExpressionIdentificatie>
+      <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm1911</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm1911</maker>
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <officieleTitel>Vaststelling van Omgevingsplan Gemeentestad (Zaltbommel)</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+         <informatieobjectRefs>
+            <informatieobjectRef>/join/id/regdata/gm1911/2022/Buitengebied_Wieringerwaard/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1911/2022/Oostpolder/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1911/2022/Verspreide_huizen_Kreileroord/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1911/2022/Verspreide_huizen_Slootdorp/nld@2022;1</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;1</informatieobjectRef>
+         </informatieobjectRefs>
+      </BesluitMetadata>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2021-12-17</bekendOp>
+         <procedurestappen><!-- Vaststelling -->
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2021-12-03</voltooidOp>
+            </Procedurestap>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+               <voltooidOp>2021-12-05</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
+      <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <BeoogdeRegelgeving>
+            <BeoogdeRegeling>
+               <doelen>
+                  <doel>/join/id/proces/gm1911/2022/InitieelTijdreisPlan</doel>
+               </doelen>
+               <instrumentVersie>/akn/nl/act/gm1911/2022/TijdreisPlanVrijetekststructuur/nld@1</instrumentVersie>
+               <eId>art_I</eId>
+            </BeoogdeRegeling>
+            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/InitieelTijdreisPlan</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Buitengebied_Wieringerwaard/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId></BeoogdInformatieobject>
+            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/InitieelTijdreisPlan</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Oostpolder/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId></BeoogdInformatieobject>
+            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/InitieelTijdreisPlan</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Verspreide_huizen_Kreileroord/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1</eId></BeoogdInformatieobject>
+            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/InitieelTijdreisPlan</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId></BeoogdInformatieobject>
+            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/InitieelTijdreisPlan</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Verspreide_huizen_Slootdorp/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1</eId></BeoogdInformatieobject>
+            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/InitieelTijdreisPlan</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;1</instrumentVersie><eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId></BeoogdInformatieobject>
+            
+         </BeoogdeRegelgeving>
+         <Tijdstempels>
+            <Tijdstempel>
+               <doel>/join/id/proces/gm1911/2022/InitieelTijdreisPlan</doel>
+               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+               <datum>2022-07-07</datum>
+               <eId>art_II</eId>
+            </Tijdstempel>
+         </Tijdstempels>
+      </ConsolidatieInformatie>
+      <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <RegelingOpschrift eId="longTitle" wId="longTitle">
+            <Al>Tijdreisplan Vrijetekststructuur</Al>
+         </RegelingOpschrift>
+         <Aanhef eId="formula_1" wId="formula_1">
+            <Al>De raad van de gemeente Gemeenstestad </Al>
+            <Al>gelezen het voorstel van burgemeester en wethouders van 26 juni 2019, nr. 2019-4542;</Al>
+            <Al>Gelet op <ExtRef ref="https://wetten.overheid.nl/jci1.3:c:BWBR0005416&amp;titeldeel=III&amp;hoofdstuk=IX&amp;artikel=149"
+                       soort="URL">Gemeentewet, art. 149</ExtRef>.</Al>
+            <Al>besluit:</Al>
+         </Aanhef>
+         <Lichaam eId="body" wId="body">
+            <WijzigArtikel eId="art_I" wId="gm1911_1__art_I">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>I</Nummer>
+               </Kop>
+               <Wat>Het omgevingsplan HollandsKroon opgenomen in <IntRef ref="cmp_A" scope="WijzigBijlage">Bijlage A</IntRef> kan worden vastgesteld.</Wat>
+            </WijzigArtikel>
+            <Artikel eId="art_II" wId="gm1911_1__art_II">
+               <Kop>
+                  <Label>Artikel</Label>
+                  <Nummer>II</Nummer>
+               </Kop>
+               <Inhoud>
+                  <Al>Dit besluit treedt in werking per 2 februari 2022.</Al>
+               </Inhoud>
+            </Artikel>
+         </Lichaam>
+         <Sluiting eId="formula_2" wId="formula_2">
+            <Al>HollandsKroon 31 mei 2022</Al>
+            <Ondertekening>
+               <Al>Dio ft. Sef - Tijdmachine</Al>
+            </Ondertekening>
+         </Sluiting>
+         <WijzigBijlage eId="cmp_A" wId="gm1911_1__cmp_A">
+            <Kop>
+               <Label>Bijlage</Label>
+               <Nummer>A</Nummer>
+               <Opschrift>Bijlage bij artikel I</Opschrift>
+            </Kop>
+            <RegelingVrijetekst componentnaam="initieel_reg"
+                             wordt="/akn/nl/act/gm1911/2022/TijdreisPlanVrijetekststructuur/nld@1">
+               <RegelingOpschrift eId="longTitle" wId="longTitle">
+                  <Al>Tijdreisplan (HollandsKroon - regels)</Al>
+               </RegelingOpschrift>
+               <Lichaam wId="body" eId="body">
+                  <Divisie wId="gm1911_1__div_1__div_1.1" eId="div_1__div_1.1">
+                     <Kop>
+                        <Label>Introductie</Label>
+                        <Nummer>1.1</Nummer>
+                        <Opschrift>Introductie van plan</Opschrift>
+                     </Kop>
+                     <Divisietekst wId="gm1911_1__div_1__div_1.1__content_1.1.1" eId="div_1__div_1.1__content_1.1.1">
+                        <Inhoud>
+                           <Al>Dit is een plan waarbij gebruik gemaakt wordt van meerdere geometrieën.<br/>
+                              De geometrieën die gebruikt worden zijn: 
+                              <IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_1" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_1" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">Buitengebied Wieringerwaard</IntIoRef>
+                              <IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_2" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_2" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">Oostpolder</IntIoRef>
+                              <IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_3" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_3" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1">Verspreide huizen Kreileroord</IntIoRef>
+                              <IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_4" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_4" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Verspreide huizen Middenmeer</IntIoRef>
+                              <IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_5" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_5" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">Verspreide huizen Slootdorp</IntIoRef>
+                              <IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_6" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_6" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1">Verspreide huizen Wieringerwerf</IntIoRef>
+                           </Al>
+                        </Inhoud>
+                     </Divisietekst>
+                  </Divisie>
+                  
+                  
+                  <!--Automatische deel, niet vergeten dat divisie 3 alleen DivisieTekst is-->
+                  <Divisie wId="gm1911_1__div_2__div_2.1" eId="div_2__div_2.1"><Kop><Label>divisieOngewijzigd</Label><Nummer>2.1</Nummer><Opschrift>divisieOngewijzigd</Opschrift></Kop><Divisietekst wId="gm1911_1__div_2__div_2.1__content_2.1.1" eId="div_2__div_2.1__content_2.1.1"><Inhoud><Al>Dit is de functionaliteit divisieOngewijzigd.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_2__div_2.2" eId="div_2__div_2.2"><Kop><Label>divisieNaamWijziging</Label><Nummer>2.2</Nummer><Opschrift>divisieNaamWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_2__div_2.2__content_2.2.1" eId="div_2__div_2.2__content_2.2.1"><Inhoud><Al>Dit is de functionaliteit divisieNaamWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_2__div_2.3" eId="div_2__div_2.3"><Kop><Label>divisieLocatieWijziging</Label><Nummer>2.3</Nummer><Opschrift>divisieLocatieWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_2__div_2.3__content_2.3.1" eId="div_2__div_2.3__content_2.3.1"><Inhoud><Al>Dit is de functionaliteit divisieLocatieWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_2__div_2.4" eId="div_2__div_2.4"><Kop><Label>divisieBeeindiging</Label><Nummer>2.4</Nummer><Opschrift>divisieBeeindiging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_2__div_2.4__content_2.4.1" eId="div_2__div_2.4__content_2.4.1"><Inhoud><Al>Dit is de functionaliteit divisieBeeindiging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_2__div_2.5" eId="div_2__div_2.5"><Kop><Label>divisieIntrekkenVervangen</Label><Nummer>2.5</Nummer><Opschrift>divisieIntrekkenVervangen</Opschrift></Kop><Divisietekst wId="gm1911_1__div_2__div_2.5__content_2.5.1" eId="div_2__div_2.5__content_2.5.1"><Inhoud><Al>Dit is de functionaliteit divisieIntrekkenVervangen.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_2__div_2.6" eId="div_2__div_2.6"><Kop><Label>divisieBeeindigingNavIntrVerv</Label><Nummer>2.6</Nummer><Opschrift>divisieBeeindigingNavIntrVerv</Opschrift></Kop><Divisietekst wId="gm1911_1__div_2__div_2.6__content_2.6.1" eId="div_2__div_2.6__content_2.6.1"><Inhoud><Al>Dit is de functionaliteit divisieBeeindigingNavIntrVerv.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_2__div_2.7" eId="div_2__div_2.7"><Kop><Label>divisieHerleven</Label><Nummer>2.7</Nummer><Opschrift>divisieHerleven</Opschrift></Kop><Divisietekst wId="gm1911_1__div_2__div_2.7__content_2.7.1" eId="div_2__div_2.7__content_2.7.1"><Inhoud><Al>Dit is de functionaliteit divisieHerleven.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_3__div_3.1" eId="div_3__div_3.1"><Kop><Label>divisietekstOngewijzigd</Label><Nummer>3.1</Nummer><Opschrift>divisietekstOngewijzigd</Opschrift></Kop><Divisietekst wId="gm1911_1__div_3__div_3.1__content_3.1.1" eId="div_3__div_3.1__content_3.1.1"><Inhoud><Al>Dit is de functionaliteit divisietekstOngewijzigd.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_3__div_3.2" eId="div_3__div_3.2"><Kop><Label>divisietekstNaamWijziging</Label><Nummer>3.2</Nummer><Opschrift>divisietekstNaamWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_3__div_3.2__content_3.2.1" eId="div_3__div_3.2__content_3.2.1"><Inhoud><Al>Dit is de functionaliteit divisietekstNaamWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_3__div_3.3" eId="div_3__div_3.3"><Kop><Label>divisietekstLocatieWijziging</Label><Nummer>3.3</Nummer><Opschrift>divisietekstLocatieWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_3__div_3.3__content_3.3.1" eId="div_3__div_3.3__content_3.3.1"><Inhoud><Al>Dit is de functionaliteit divisietekstLocatieWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_3__div_3.4" eId="div_3__div_3.4"><Kop><Label>divisietekstBeeindiging</Label><Nummer>3.4</Nummer><Opschrift>divisietekstBeeindiging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_3__div_3.4__content_3.4.1" eId="div_3__div_3.4__content_3.4.1"><Inhoud><Al>Dit is de functionaliteit divisietekstBeeindiging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_3__div_3.5" eId="div_3__div_3.5"><Kop><Label>divisietekstIntrekkenVervangen</Label><Nummer>3.5</Nummer><Opschrift>divisietekstIntrekkenVervangen</Opschrift></Kop><Divisietekst wId="gm1911_1__div_3__div_3.5__content_3.5.1" eId="div_3__div_3.5__content_3.5.1"><Inhoud><Al>Dit is de functionaliteit divisietekstIntrekkenVervangen.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_3__div_3.6" eId="div_3__div_3.6"><Kop><Label>divisietekstBeeindigingNavIntrVerv</Label><Nummer>3.6</Nummer><Opschrift>divisietekstBeeindigingNavIntrVerv</Opschrift></Kop><Divisietekst wId="gm1911_1__div_3__div_3.6__content_3.6.1" eId="div_3__div_3.6__content_3.6.1"><Inhoud><Al>Dit is de functionaliteit divisietekstBeeindigingNavIntrVerv.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_3__div_3.7" eId="div_3__div_3.7"><Kop><Label>divisietekstHerleven</Label><Nummer>3.7</Nummer><Opschrift>divisietekstHerleven</Opschrift></Kop><Divisietekst wId="gm1911_1__div_3__div_3.7__content_3.7.1" eId="div_3__div_3.7__content_3.7.1"><Inhoud><Al>Dit is de functionaliteit divisietekstHerleven.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_4__div_4.1" eId="div_4__div_4.1"><Kop><Label>tekstdeelOngewijzigd</Label><Nummer>4.1</Nummer><Opschrift>tekstdeelOngewijzigd</Opschrift></Kop><Divisietekst wId="gm1911_1__div_4__div_4.1__content_4.1.1" eId="div_4__div_4.1__content_4.1.1"><Inhoud><Al>Dit is de functionaliteit tekstdeelOngewijzigd.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_4__div_4.2" eId="div_4__div_4.2"><Kop><Label>tekstdeelNaamWijziging</Label><Nummer>4.2</Nummer><Opschrift>tekstdeelNaamWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_4__div_4.2__content_4.2.1" eId="div_4__div_4.2__content_4.2.1"><Inhoud><Al>Dit is de functionaliteit tekstdeelNaamWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_4__div_4.3" eId="div_4__div_4.3"><Kop><Label>tekstdeelLocatieWijziging</Label><Nummer>4.3</Nummer><Opschrift>tekstdeelLocatieWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_4__div_4.3__content_4.3.1" eId="div_4__div_4.3__content_4.3.1"><Inhoud><Al>Dit is de functionaliteit tekstdeelLocatieWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_4__div_4.4" eId="div_4__div_4.4"><Kop><Label>tekstdeelBeeindiging</Label><Nummer>4.4</Nummer><Opschrift>tekstdeelBeeindiging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_4__div_4.4__content_4.4.1" eId="div_4__div_4.4__content_4.4.1"><Inhoud><Al>Dit is de functionaliteit tekstdeelBeeindiging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_4__div_4.5" eId="div_4__div_4.5"><Kop><Label>tekstdeelIntrekkenVervangen</Label><Nummer>4.5</Nummer><Opschrift>tekstdeelIntrekkenVervangen</Opschrift></Kop><Divisietekst wId="gm1911_1__div_4__div_4.5__content_4.5.1" eId="div_4__div_4.5__content_4.5.1"><Inhoud><Al>Dit is de functionaliteit tekstdeelIntrekkenVervangen.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_4__div_4.6" eId="div_4__div_4.6"><Kop><Label>tekstdeelBeeindigingNavIntrVerv</Label><Nummer>4.6</Nummer><Opschrift>tekstdeelBeeindigingNavIntrVerv</Opschrift></Kop><Divisietekst wId="gm1911_1__div_4__div_4.6__content_4.6.1" eId="div_4__div_4.6__content_4.6.1"><Inhoud><Al>Dit is de functionaliteit tekstdeelBeeindigingNavIntrVerv.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_4__div_4.7" eId="div_4__div_4.7"><Kop><Label>tekstdeelHerleven</Label><Nummer>4.7</Nummer><Opschrift>tekstdeelHerleven</Opschrift></Kop><Divisietekst wId="gm1911_1__div_4__div_4.7__content_4.7.1" eId="div_4__div_4.7__content_4.7.1"><Inhoud><Al>Dit is de functionaliteit tekstdeelHerleven.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_5__div_5.1" eId="div_5__div_5.1"><Kop><Label>hoofdlijnOngewijzigd</Label><Nummer>5.1</Nummer><Opschrift>hoofdlijnOngewijzigd</Opschrift></Kop><Divisietekst wId="gm1911_1__div_5__div_5.1__content_5.1.1" eId="div_5__div_5.1__content_5.1.1"><Inhoud><Al>Dit is de functionaliteit hoofdlijnOngewijzigd.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_5__div_5.2" eId="div_5__div_5.2"><Kop><Label>hoofdlijnNaamWijziging</Label><Nummer>5.2</Nummer><Opschrift>hoofdlijnNaamWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_5__div_5.2__content_5.2.1" eId="div_5__div_5.2__content_5.2.1"><Inhoud><Al>Dit is de functionaliteit hoofdlijnNaamWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_5__div_5.3" eId="div_5__div_5.3"><Kop><Label>hoofdlijnLocatieWijziging</Label><Nummer>5.3</Nummer><Opschrift>hoofdlijnLocatieWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_5__div_5.3__content_5.3.1" eId="div_5__div_5.3__content_5.3.1"><Inhoud><Al>Dit is de functionaliteit hoofdlijnLocatieWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_5__div_5.4" eId="div_5__div_5.4"><Kop><Label>hoofdlijnBeeindiging</Label><Nummer>5.4</Nummer><Opschrift>hoofdlijnBeeindiging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_5__div_5.4__content_5.4.1" eId="div_5__div_5.4__content_5.4.1"><Inhoud><Al>Dit is de functionaliteit hoofdlijnBeeindiging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_5__div_5.5" eId="div_5__div_5.5"><Kop><Label>hoofdlijnIntrekkenVervangen</Label><Nummer>5.5</Nummer><Opschrift>hoofdlijnIntrekkenVervangen</Opschrift></Kop><Divisietekst wId="gm1911_1__div_5__div_5.5__content_5.5.1" eId="div_5__div_5.5__content_5.5.1"><Inhoud><Al>Dit is de functionaliteit hoofdlijnIntrekkenVervangen.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_5__div_5.6" eId="div_5__div_5.6"><Kop><Label>hoofdlijnBeeindigingNavIntrVerv</Label><Nummer>5.6</Nummer><Opschrift>hoofdlijnBeeindigingNavIntrVerv</Opschrift></Kop><Divisietekst wId="gm1911_1__div_5__div_5.6__content_5.6.1" eId="div_5__div_5.6__content_5.6.1"><Inhoud><Al>Dit is de functionaliteit hoofdlijnBeeindigingNavIntrVerv.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_5__div_5.7" eId="div_5__div_5.7"><Kop><Label>hoofdlijnHerleven</Label><Nummer>5.7</Nummer><Opschrift>hoofdlijnHerleven</Opschrift></Kop><Divisietekst wId="gm1911_1__div_5__div_5.7__content_5.7.1" eId="div_5__div_5.7__content_5.7.1"><Inhoud><Al>Dit is de functionaliteit hoofdlijnHerleven.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_6__div_6.1" eId="div_6__div_6.1"><Kop><Label>KaartOngewijzigd</Label><Nummer>6.1</Nummer><Opschrift>KaartOngewijzigd</Opschrift></Kop><Divisietekst wId="gm1911_1__div_6__div_6.1__content_6.1.1" eId="div_6__div_6.1__content_6.1.1"><Inhoud><Al>Dit is de functionaliteit KaartOngewijzigd.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_6__div_6.2" eId="div_6__div_6.2"><Kop><Label>kaartNaamWijziging</Label><Nummer>6.2</Nummer><Opschrift>kaartNaamWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_6__div_6.2__content_6.2.1" eId="div_6__div_6.2__content_6.2.1"><Inhoud><Al>Dit is de functionaliteit kaartNaamWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_6__div_6.3" eId="div_6__div_6.3"><Kop><Label>kaartLocatieWijziging</Label><Nummer>6.3</Nummer><Opschrift>kaartLocatieWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_6__div_6.3__content_6.3.1" eId="div_6__div_6.3__content_6.3.1"><Inhoud><Al>Dit is de functionaliteit kaartLocatieWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_6__div_6.4" eId="div_6__div_6.4"><Kop><Label>kaartBeeindiging</Label><Nummer>6.4</Nummer><Opschrift>kaartBeeindiging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_6__div_6.4__content_6.4.1" eId="div_6__div_6.4__content_6.4.1"><Inhoud><Al>Dit is de functionaliteit kaartBeeindiging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_6__div_6.5" eId="div_6__div_6.5"><Kop><Label>kaartIntrekkenVervangen</Label><Nummer>6.5</Nummer><Opschrift>kaartIntrekkenVervangen</Opschrift></Kop><Divisietekst wId="gm1911_1__div_6__div_6.5__content_6.5.1" eId="div_6__div_6.5__content_6.5.1"><Inhoud><Al>Dit is de functionaliteit kaartIntrekkenVervangen.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_6__div_6.6" eId="div_6__div_6.6"><Kop><Label>kaartBeeindigingNavIntrVerv</Label><Nummer>6.6</Nummer><Opschrift>kaartBeeindigingNavIntrVerv</Opschrift></Kop><Divisietekst wId="gm1911_1__div_6__div_6.6__content_6.6.1" eId="div_6__div_6.6__content_6.6.1"><Inhoud><Al>Dit is de functionaliteit kaartBeeindigingNavIntrVerv.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_6__div_6.7" eId="div_6__div_6.7"><Kop><Label>kaartHerleven</Label><Nummer>6.7</Nummer><Opschrift>kaartHerleven</Opschrift></Kop><Divisietekst wId="gm1911_1__div_6__div_6.7__content_6.7.1" eId="div_6__div_6.7__content_6.7.1"><Inhoud><Al>Dit is de functionaliteit kaartHerleven.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_7__div_7.1" eId="div_7__div_7.1"><Kop><Label>GebiedsaanwijzingOngewijzigd</Label><Nummer>7.1</Nummer><Opschrift>GebiedsaanwijzingOngewijzigd</Opschrift></Kop><Divisietekst wId="gm1911_1__div_7__div_7.1__content_7.1.1" eId="div_7__div_7.1__content_7.1.1"><Inhoud><Al>Dit is de functionaliteit GebiedsaanwijzingOngewijzigd.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_7__div_7.2" eId="div_7__div_7.2"><Kop><Label>GebiedsaanwijzingNaamWijziging</Label><Nummer>7.2</Nummer><Opschrift>GebiedsaanwijzingNaamWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_7__div_7.2__content_7.2.1" eId="div_7__div_7.2__content_7.2.1"><Inhoud><Al>Dit is de functionaliteit GebiedsaanwijzingNaamWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_7__div_7.3" eId="div_7__div_7.3"><Kop><Label>GebiedsaanwijzingLocatieWijziging</Label><Nummer>7.3</Nummer><Opschrift>GebiedsaanwijzingLocatieWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_7__div_7.3__content_7.3.1" eId="div_7__div_7.3__content_7.3.1"><Inhoud><Al>Dit is de functionaliteit GebiedsaanwijzingLocatieWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_7__div_7.4" eId="div_7__div_7.4"><Kop><Label>GebiedsaanwijzingBeeindiging</Label><Nummer>7.4</Nummer><Opschrift>GebiedsaanwijzingBeeindiging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_7__div_7.4__content_7.4.1" eId="div_7__div_7.4__content_7.4.1"><Inhoud><Al>Dit is de functionaliteit GebiedsaanwijzingBeeindiging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_7__div_7.5" eId="div_7__div_7.5"><Kop><Label>GebiedsaanwijzingIntrekkenVervangen</Label><Nummer>7.5</Nummer><Opschrift>GebiedsaanwijzingIntrekkenVervangen</Opschrift></Kop><Divisietekst wId="gm1911_1__div_7__div_7.5__content_7.5.1" eId="div_7__div_7.5__content_7.5.1"><Inhoud><Al>Dit is de functionaliteit GebiedsaanwijzingIntrekkenVervangen.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_7__div_7.6" eId="div_7__div_7.6"><Kop><Label>GebiedsaanwijzingBeeindigingNavIntrVerv</Label><Nummer>7.6</Nummer><Opschrift>GebiedsaanwijzingBeeindigingNavIntrVerv</Opschrift></Kop><Divisietekst wId="gm1911_1__div_7__div_7.6__content_7.6.1" eId="div_7__div_7.6__content_7.6.1"><Inhoud><Al>Dit is de functionaliteit GebiedsaanwijzingBeeindigingNavIntrVerv.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_7__div_7.7" eId="div_7__div_7.7"><Kop><Label>GebiedsaanwijzingHerleven</Label><Nummer>7.7</Nummer><Opschrift>GebiedsaanwijzingHerleven</Opschrift></Kop><Divisietekst wId="gm1911_1__div_7__div_7.7__content_7.7.1" eId="div_7__div_7.7__content_7.7.1"><Inhoud><Al>Dit is de functionaliteit GebiedsaanwijzingHerleven.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_8__div_8.1" eId="div_8__div_8.1"><Kop><Label>GebiedengroepOngewijzigd</Label><Nummer>8.1</Nummer><Opschrift>GebiedengroepOngewijzigd</Opschrift></Kop><Divisietekst wId="gm1911_1__div_8__div_8.1__content_8.1.1" eId="div_8__div_8.1__content_8.1.1"><Inhoud><Al>Dit is de functionaliteit GebiedengroepOngewijzigd.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_8__div_8.2" eId="div_8__div_8.2"><Kop><Label>GebiedengroepNaamWijziging</Label><Nummer>8.2</Nummer><Opschrift>GebiedengroepNaamWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_8__div_8.2__content_8.2.1" eId="div_8__div_8.2__content_8.2.1"><Inhoud><Al>Dit is de functionaliteit GebiedengroepNaamWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_8__div_8.3" eId="div_8__div_8.3"><Kop><Label>GebiedengroepLocatieWijziging</Label><Nummer>8.3</Nummer><Opschrift>GebiedengroepLocatieWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_8__div_8.3__content_8.3.1" eId="div_8__div_8.3__content_8.3.1"><Inhoud><Al>Dit is de functionaliteit GebiedengroepLocatieWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_8__div_8.4" eId="div_8__div_8.4"><Kop><Label>GebiedengroepBeeindiging</Label><Nummer>8.4</Nummer><Opschrift>GebiedengroepBeeindiging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_8__div_8.4__content_8.4.1" eId="div_8__div_8.4__content_8.4.1"><Inhoud><Al>Dit is de functionaliteit GebiedengroepBeeindiging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_8__div_8.5" eId="div_8__div_8.5"><Kop><Label>GebiedengroepIntrekkenVervangen</Label><Nummer>8.5</Nummer><Opschrift>GebiedengroepIntrekkenVervangen</Opschrift></Kop><Divisietekst wId="gm1911_1__div_8__div_8.5__content_8.5.1" eId="div_8__div_8.5__content_8.5.1"><Inhoud><Al>Dit is de functionaliteit GebiedengroepIntrekkenVervangen.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_8__div_8.6" eId="div_8__div_8.6"><Kop><Label>GebiedOngewijzigd</Label><Nummer>8.6</Nummer><Opschrift>GebiedOngewijzigd</Opschrift></Kop><Divisietekst wId="gm1911_1__div_8__div_8.6__content_8.6.1" eId="div_8__div_8.6__content_8.6.1"><Inhoud><Al>Dit is de functionaliteit GebiedOngewijzigd.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_8__div_8.7" eId="div_8__div_8.7"><Kop><Label>GebiedNaamWijziging</Label><Nummer>8.7</Nummer><Opschrift>GebiedNaamWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_8__div_8.7__content_8.7.1" eId="div_8__div_8.7__content_8.7.1"><Inhoud><Al>Dit is de functionaliteit GebiedNaamWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_8__div_8.8" eId="div_8__div_8.8"><Kop><Label>GebiedLocatieWijziging</Label><Nummer>8.8</Nummer><Opschrift>GebiedLocatieWijziging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_8__div_8.8__content_8.8.1" eId="div_8__div_8.8__content_8.8.1"><Inhoud><Al>Dit is de functionaliteit GebiedLocatieWijziging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_8__div_8.9" eId="div_8__div_8.9"><Kop><Label>GebiedBeeindiging</Label><Nummer>8.9</Nummer><Opschrift>GebiedBeeindiging</Opschrift></Kop><Divisietekst wId="gm1911_1__div_8__div_8.9__content_8.9.1" eId="div_8__div_8.9__content_8.9.1"><Inhoud><Al>Dit is de functionaliteit GebiedBeeindiging.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_8__div_8.10" eId="div_8__div_8.10"><Kop><Label>GebiedIntrekkenVervangen</Label><Nummer>8.10</Nummer><Opschrift>GebiedIntrekkenVervangen</Opschrift></Kop><Divisietekst wId="gm1911_1__div_8__div_8.10__content_8.10.1" eId="div_8__div_8.10__content_8.10.1"><Inhoud><Al>Dit is de functionaliteit GebiedIntrekkenVervangen.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  <Divisie wId="gm1911_1__div_9__div_9.1" eId="div_9__div_9.1"><Kop><Label>SpecifiekeTest 1 divisie en divisietekst allebei geannoteerd</Label><Nummer>9.1</Nummer><Opschrift>SpecifiekeTest 1 divisie en divisietekst allebei geannoteerd</Opschrift></Kop><Divisietekst wId="gm1911_1__div_9__div_9.1__content_9.1.1" eId="div_9__div_9.1__content_9.1.1"><Inhoud><Al>Dit is de functionaliteit SpecifiekeTest 1 divisie en divisietekst allebei geannoteerd.<br/>Als je hiernaar kijkt dan zie je de regelingversie van 07-07-2022. <br/> Dit artikel is te vinden bij het ambtsgebied van Hollands Kroon.</Al></Inhoud></Divisietekst></Divisie>
+                  
+               </Lichaam>
+               <Bijlage wId="gm1911__cmp_I" eId="cmp_I">
+                  <Kop>
+                     <Label>Bijlage</Label>
+                     <Nummer>I</Nummer>
+                     <Opschrift>Overzicht Informatieobjecten</Opschrift>
+                  </Kop>
+                  <Divisietekst eId="cmp_I__content_o_1" wId="gm0363_1__cmp_I__content_o_1">
+                     <Inhoud>
+                        <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
+                           wId="gm0363_1__cmp_I__content_o_1__list_o_1">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_1"><Term>Buitengebied Wieringerwaard</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1" ref="/join/id/regdata/gm1911/2022/Buitengebied_Wieringerwaard/nld@2022;1">/join/id/regdata/gm1911/2022/Buitengebied_Wieringerwaard/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_2"><Term>Oostpolder</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1" ref="/join/id/regdata/gm1911/2022/Oostpolder/nld@2022;1">/join/id/regdata/gm1911/2022/Oostpolder/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_3"><Term>Verspreide huizen Kreileroord</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm1911/2022/Verspreide_huizen_Kreileroord/nld@2022;1">/join/id/regdata/gm1911/2022/Verspreide_huizen_Kreileroord/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_4"><Term>Verspreide huizen Middenmeer</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer/nld@2022;1">/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_5"><Term>Verspreide huizen Slootdorp</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm1911/2022/Verspreide_huizen_Slootdorp/nld@2022;1">/join/id/regdata/gm1911/2022/Verspreide_huizen_Slootdorp/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_6"><Term>Verspreide huizen Wieringerwerf</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;1">/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                        </Begrippenlijst>
+                     </Inhoud>
+                  </Divisietekst>
+               </Bijlage>
+            </RegelingVrijetekst>
+         </WijzigBijlage>
+      </BesluitCompact>
+   </BesluitVersie>
+   <RegelingVersieInformatie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/akn/nl/act/gm1911/2022/TijdreisPlanVrijetekststructuur</FRBRWork>
+         <FRBRExpression>/akn/nl/act/gm1911/2022/TijdreisPlanVrijetekststructuur/nld@1</FRBRExpression>
+         <soortWork>/join/id/stop/work_019</soortWork>
+      </ExpressionIdentificatie>
+      <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <versienummer>1</versienummer>
+      </RegelingVersieMetadata>
+      <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/gemeente/gm1911</eindverantwoordelijke>
+         <maker>/tooi/id/gemeente/gm1911</maker>
+         <!--soortBestuursorgaan is 'gemeenteraad'.-->
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_2a7d8663</soortBestuursorgaan>
+         <heeftCiteertitelInformatie>
+            <CiteertitelInformatie>
+               <citeertitel>Tijdreisplan (HollandsKroon - vrijetekst)</citeertitel>
+               <isOfficieel>true</isOfficieel>
+            </CiteertitelInformatie>
+         </heeftCiteertitelInformatie>
+         <officieleTitel>Tijdreisplan (HollandsKroon - vrijetekst)</officieleTitel>
+         <onderwerpen>
+            <onderwerp>/tooi/def/concept/c_9d1917e9</onderwerp>
+         </onderwerpen>
+         <rechtsgebieden>
+            <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+         </rechtsgebieden>
+         <soortRegeling>/join/id/stop/regelingtype_003</soortRegeling>
+         <!-- Omgevingsplan -->
+      </RegelingMetadata>
+   </RegelingVersieInformatie>
+</AanleveringBesluit>

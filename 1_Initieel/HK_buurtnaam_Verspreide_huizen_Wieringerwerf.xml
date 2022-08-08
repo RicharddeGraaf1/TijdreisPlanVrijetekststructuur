@@ -2,8 +2,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/gm1911/2022/buurten_6</FRBRWork>
-      <FRBRExpression>/join/id/regdata/gm1911/2022/buurten_6/nld@2022</FRBRExpression>
+      <FRBRWork>/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,7 +12,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>HK_buurtnaam_Verspreide_huizen_Wieringerwerf.gml</bestandsnaam>
-            <hash>fa4be6ad27893631689f8531d354420bdcb9dacaccd3999666ced8699784c916600d7c97c627af82500d5e124f5072345a3b5520703a6d07eeacb712481ae760</hash>
+            <hash>d9a9cff220b4439dd4dee0811198a5055fa30e57ac3e47a4b07b6734581ccf80351f5e4b49bd4cd6c9b68c40d026585b682981adc2f0c1daf4cc688b5d7bb86f</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -23,7 +23,7 @@
       <alternatieveTitels>
         <alternatieveTitel/>
       </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm1911/2022/buurten_6</officieleTitel>
+      <officieleTitel>/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <naamInformatieObject>Verspreide huizen Wieringerwerf</naamInformatieObject>

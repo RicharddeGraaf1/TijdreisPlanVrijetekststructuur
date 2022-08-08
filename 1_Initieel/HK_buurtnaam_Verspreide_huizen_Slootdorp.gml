@@ -8,8 +8,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/gm1911/2022/buurten_2</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm1911/2022/buurten_2/nld@2022</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/gm1911/2022/Verspreide_huizen_Slootdorp</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm1911/2022/Verspreide_huizen_Slootdorp/nld@2022;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Verspreide huizen Slootdorp</geo:naam>

@@ -2,8 +2,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/gm1911/2022/buurten_1</FRBRWork>
-      <FRBRExpression>/join/id/regdata/gm1911/2022/buurten_1/nld@2022</FRBRExpression>
+      <FRBRWork>/join/id/regdata/gm1911/2022/Buitengebied_Wieringerwaard</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm1911/2022/Buitengebied_Wieringerwaard/nld@2022;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,7 +12,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>HK_buurtnaam_Buitengebied_Wieringerwaard.gml</bestandsnaam>
-            <hash>d3356c9f17ac54b37b1f81a04cb76b941ef178da40882a9780ce10d2c04842f1246b38d75c1d211bf0cd911f21f5d86a99772a95baef63e6cb714113fad5e32c</hash>
+            <hash>ac958e25afa3a8a2dcba96bff9de1719f1f6a0bceb9f98c3d80b51a10f1e9e5bf973d2793e34583708571d9634478e13cc1f183a8f41b383fb3deb93ef65baec</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -23,7 +23,7 @@
       <alternatieveTitels>
         <alternatieveTitel/>
       </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm1911/2022/buurten_1</officieleTitel>
+      <officieleTitel>/join/id/regdata/gm1911/2022/Buitengebied_Wieringerwaard</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <naamInformatieObject>Buitengebied Wieringerwaard</naamInformatieObject>
