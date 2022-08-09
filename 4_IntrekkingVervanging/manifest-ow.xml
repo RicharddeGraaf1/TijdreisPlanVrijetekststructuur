@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Aanleveringen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.geostandaarden.nl/bestanden-ow/manifest-ow" xsi:schemaLocation="http://www.geostandaarden.nl/bestanden-ow/manifest-ow https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/generiek/manifest-ow.xsd">
+ <domein>omgevingswet</domein>
+ <Aanlevering>
+  <WorkIDRegeling>/akn/nl/act/gm1911/2022/TijdreisPlanVrijetekststructuurNieuw</WorkIDRegeling>
+  <DoelID>/join/id/proces/gm1911/2022/IntrekkenVervangen</DoelID>
+  <Bestand>
+   <naam>HK_owDivisie.xml</naam>
+   <objecttype>Divisie</objecttype>
+   <objecttype>Divisietekst</objecttype>
+  </Bestand>
+  <Bestand>
+   <naam>HK_owGebiedsaanwijzing.xml</naam>
+   <objecttype>Gebiedsaanwijzing</objecttype>
+  </Bestand>
+  <Bestand>
+   <naam>HK_owHoofdlijn.xml</naam>
+   <objecttype>Hoofdlijn</objecttype>
+  </Bestand>
+  <Bestand>
+   <naam>HK_owKaart.xml</naam>
+   <objecttype>Kaart</objecttype>
+  </Bestand>
+  <Bestand>
+   <naam>HK_owLocatie.xml</naam>
+   <objecttype>Gebied</objecttype>
+   <objecttype>Gebiedengroep</objecttype>
+  </Bestand>
+  <Bestand>
+   <naam>HK_owRegelingsgebied.xml</naam>
+   <objecttype>Regelingsgebied</objecttype>
+  </Bestand>
+  <Bestand>
+   <naam>HK_owTekstdeel.xml</naam>
+   <objecttype>Tekstdeel</objecttype>
+  </Bestand>
+ </Aanlevering>
+</Aanleveringen>
