@@ -44,38 +44,7 @@
          </procedurestappen>
       </Procedureverloop>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <BeoogdeRegelgeving>
-            <BeoogdeRegeling>
-               <doelen>
-                  <doel>/join/id/proces/gm1911/2022/IntrekkenVervangen</doel>
-               </doelen>
-               <instrumentVersie>/akn/nl/act/gm1911/2022/TijdreisPlanVrijetekststructuurNieuw/nld@1</instrumentVersie>
-               <eId>art_I</eId>
-            </BeoogdeRegeling>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/IntrekkenVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Buitengebied_Wieringerwaard/nld@2022;3</instrumentVersie><eId>!intrVervangen#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/IntrekkenVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Oostpolder/nld@2022;3</instrumentVersie><eId>!intrVervangen#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/IntrekkenVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Verspreide_huizen_Kreileroord/nld@2022;3</instrumentVersie><eId>!intrVervangen#cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/IntrekkenVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer/nld@2022;3</instrumentVersie><eId>!intrVervangen#cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/IntrekkenVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Verspreide_huizen_Slootdorp/nld@2022;3</instrumentVersie><eId>!intrVervangen#cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1</eId></BeoogdInformatieobject>
-            <BeoogdInformatieobject><doelen><doel>/join/id/proces/gm1911/2022/IntrekkenVervangen</doel></doelen><instrumentVersie>/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;3</instrumentVersie><eId>!intrVervangen#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId></BeoogdInformatieobject>
-         </BeoogdeRegelgeving>
-         <Intrekkingen>
-            <Intrekking>
-               <doelen>
-                  <doel>/join/id/proces/gm1911/2022/IntrekkenVervangen</doel>
-               </doelen>
-               <instrument>/akn/nl/act/gm1911/2022/TijdreisPlanVrijetekststructuur</instrument>
-               <eId>art_I</eId>
-            </Intrekking>
-         </Intrekkingen>
-         <Tijdstempels>
-            <Tijdstempel>
-               <doel>/join/id/proces/gm1911/2022/IntrekkenVervangen</doel>
-               <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2022-09-09</datum>
-               <eId>art_II</eId>
-            </Tijdstempel>
-         </Tijdstempels>
+         
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift eId="longTitle" wId="longTitle">
