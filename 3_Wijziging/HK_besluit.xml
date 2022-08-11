@@ -55,6 +55,15 @@
                <eId>!wijziging#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
+<!--Informatieobjecten intrekken lukt nog niet door BHKV1063         <Intrekkingen>
+            <Intrekking>
+               <doelen>
+                  <doel>/join/id/proces/gm1911/2022/Wijziging</doel>
+               </doelen>
+               <instrument>/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf</instrument>
+               <eId>art_II</eId>
+            </Intrekking>
+         </Intrekkingen>-->
          <Tijdstempels>
             <Tijdstempel>
                <doel>/join/id/proces/gm1911/2022/Wijziging</doel>
@@ -127,7 +136,7 @@
                                     <IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_3" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_3" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1">Verspreide huizen Kreileroord</IntIoRef>
                                     <IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_4" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_4" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1">Verspreide huizen Middenmeer</IntIoRef>
                                     <IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_5" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_5" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1">Verspreide huizen Slootdorp</IntIoRef>
-                                    <IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_6" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_6" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1">Verspreide huizen Wieringerwerf</IntIoRef>
+                                    <!--<IntIoRef eId="div_1__div_1.1__content_1.1.1__ref_o_6" wId="gm1911_1__div_1__div_1.1__content_1.1.1__ref_o_6" ref="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1">Verspreide huizen Wieringerwerf</IntIoRef>-->
                                  </Al>
                               </Inhoud>
                            </Divisietekst>
@@ -205,7 +214,7 @@
                                  <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_3"><Term>Verspreide huizen Kreileroord</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1" ref="/join/id/regdata/gm1911/2022/Verspreide_huizen_Kreileroord/nld@2022;1">/join/id/regdata/gm1911/2022/Verspreide_huizen_Kreileroord/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
                                  <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_4"><Term>Verspreide huizen Middenmeer</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1" ref="/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer/nld@2022;1">/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
                                  <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_5"><Term>Verspreide huizen Slootdorp</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1" ref="/join/id/regdata/gm1911/2022/Verspreide_huizen_Slootdorp/nld@2022;1">/join/id/regdata/gm1911/2022/Verspreide_huizen_Slootdorp/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
-                                 <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_6"><Term>Verspreide huizen Wieringerwerf</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;1">/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>
+                                 <!--<Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_6"><Term>Verspreide huizen Wieringerwerf</Term><Definitie><Al><ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" wId="gm1911_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1" ref="/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;1">/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;1</ExtIoRef></Al></Definitie></Begrip>-->
                               </Begrippenlijst>
                            </Inhoud>
                         </Divisietekst>
