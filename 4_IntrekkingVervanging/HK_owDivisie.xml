@@ -31,14 +31,14 @@
   <sl:stand><ow-dc:owObject><vt:Divisie wId="gm1911_1__div_2__div_2.3"><vt:identificatie>nl.imow-gm1911.divisie.chp2subchp2p3</vt:identificatie></vt:Divisie></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisie wId="gm1911_1__div_2__div_2.4"><vt:identificatie>nl.imow-gm1911.divisie.chp2subchp2p4</vt:identificatie></vt:Divisie></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisie wId="gm1911_1__div_2__div_2.5"><vt:identificatie>nl.imow-gm1911.divisie.chp2subchp2p5</vt:identificatie></vt:Divisie></ow-dc:owObject></sl:stand>
-  <sl:stand><ow-dc:owObject><vt:Divisie wId="gm1911_1__div_2__div_2.6"><vt:identificatie>nl.imow-gm1911.divisie.chp2subchp2p6</vt:identificatie></vt:Divisie></ow-dc:owObject></sl:stand>
+  <sl:stand><ow-dc:owObject><vt:Divisie wId="gm1911_1__div_2__div_2.6"><op:status>beëindigen</op:status><vt:identificatie>nl.imow-gm1911.divisie.chp2subchp2p6</vt:identificatie></vt:Divisie></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisie wId="gm1911_1__div_2__div_2.7"><vt:identificatie>nl.imow-gm1911.divisie.chp2subchp2p7</vt:identificatie></vt:Divisie></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisietekst wId="gm1911_1__div_3__div_3.1__content_3.1.1"><vt:identificatie>nl.imow-gm1911.divisietekst.chp3subchp3p1</vt:identificatie></vt:Divisietekst></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisietekst wId="gm1911_1__div_3__div_3.2__content_3.2.1"><vt:identificatie>nl.imow-gm1911.divisietekst.chp3subchp3p2</vt:identificatie></vt:Divisietekst></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisietekst wId="gm1911_1__div_3__div_3.3__content_3.3.1"><vt:identificatie>nl.imow-gm1911.divisietekst.chp3subchp3p3</vt:identificatie></vt:Divisietekst></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisietekst wId="gm1911_1__div_3__div_3.4__content_3.4.1"><vt:identificatie>nl.imow-gm1911.divisietekst.chp3subchp3p4</vt:identificatie></vt:Divisietekst></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisietekst wId="gm1911_1__div_3__div_3.5__content_3.5.1"><vt:identificatie>nl.imow-gm1911.divisietekst.chp3subchp3p5</vt:identificatie></vt:Divisietekst></ow-dc:owObject></sl:stand>
-  <sl:stand><ow-dc:owObject><vt:Divisietekst wId="gm1911_1__div_3__div_3.6__content_3.6.1"><vt:identificatie>nl.imow-gm1911.divisietekst.chp3subchp3p6</vt:identificatie></vt:Divisietekst></ow-dc:owObject></sl:stand>
+  <sl:stand><ow-dc:owObject><vt:Divisietekst wId="gm1911_1__div_3__div_3.6__content_3.6.1"><op:status>beëindigen</op:status><vt:identificatie>nl.imow-gm1911.divisietekst.chp3subchp3p6</vt:identificatie></vt:Divisietekst></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisietekst wId="gm1911_1__div_3__div_3.7__content_3.7.1"><vt:identificatie>nl.imow-gm1911.divisietekst.chp3subchp3p7</vt:identificatie></vt:Divisietekst></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisie wId="gm1911_1__div_4__div_4.1"><vt:identificatie>nl.imow-gm1911.divisie.chp4subchp4p1</vt:identificatie></vt:Divisie></ow-dc:owObject></sl:stand>
   <sl:stand><ow-dc:owObject><vt:Divisie wId="gm1911_1__div_4__div_4.2"><vt:identificatie>nl.imow-gm1911.divisie.chp4subchp4p2</vt:identificatie></vt:Divisie></ow-dc:owObject></sl:stand>

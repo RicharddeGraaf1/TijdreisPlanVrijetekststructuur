@@ -2,8 +2,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer</FRBRWork>
-      <FRBRExpression>/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer/nld@2022;3</FRBRExpression>
+      <FRBRWork>/join/id/regdata/gm1911/2022/intrVervVerspreide_huizen_Middenmeer</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm1911/2022/intrVervVerspreide_huizen_Middenmeer/nld@2022;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,7 +12,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>HK_buurtnaam_Verspreide_huizen_Middenmeer.gml</bestandsnaam>
-            <hash>97c74d6a5ab4537f71742c633bcf50302b76e5d18a81a3a53d46fbb248ef968b30e122ff174d8bdbc636a32da764d83683ec3a109b90a6da23e6d83b6e8d7f5a</hash>
+            <hash>241de9b3a910eb2b6b42d9002a8bdd4d064b20f45eca67ef78a7cedc3759182fb28bea4303318d3ca316f41bb9d4a0e6ba825cb7f76988c96a8568db9326f4ab</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -23,7 +23,7 @@
       <alternatieveTitels>
         <alternatieveTitel/>
       </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm1911/2022/Verspreide_huizen_Middenmeer</officieleTitel>
+      <officieleTitel>/join/id/regdata/gm1911/2022/intrVervVerspreide_huizen_Middenmeer</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <naamInformatieObject>Verspreide huizen Middenmeer</naamInformatieObject>

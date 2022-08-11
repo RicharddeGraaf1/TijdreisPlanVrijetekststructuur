@@ -8,8 +8,8 @@
   </geo:context>
   <geo:vastgesteldeVersie>
     <geo:GeoInformatieObjectVersie>
-      <geo:FRBRWork>/join/id/regdata/gm1911/2022/Buitengebied_Wieringerwaard</geo:FRBRWork>
-      <geo:FRBRExpression>/join/id/regdata/gm1911/2022/Buitengebied_Wieringerwaard/nld@2022;3</geo:FRBRExpression>
+      <geo:FRBRWork>/join/id/regdata/gm1911/2022/intrVervBuitengebied_Wieringerwaard</geo:FRBRWork>
+      <geo:FRBRExpression>/join/id/regdata/gm1911/2022/intrVervBuitengebied_Wieringerwaard/nld@2022;1</geo:FRBRExpression>
       <geo:locaties>
         <geo:Locatie>
           <geo:naam>Buitengebied Wieringerwaard</geo:naam>

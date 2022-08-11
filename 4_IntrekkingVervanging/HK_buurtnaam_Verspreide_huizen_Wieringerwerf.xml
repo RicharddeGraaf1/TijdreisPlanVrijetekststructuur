@@ -2,8 +2,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaversie="1.2.0" xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
   <InformatieObjectVersie>
     <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-      <FRBRWork>/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf</FRBRWork>
-      <FRBRExpression>/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf/nld@2022;3</FRBRExpression>
+      <FRBRWork>/join/id/regdata/gm1911/2022/intrVervVerspreide_huizen_Wieringerwerf</FRBRWork>
+      <FRBRExpression>/join/id/regdata/gm1911/2022/intrVervVerspreide_huizen_Wieringerwerf/nld@2022;1</FRBRExpression>
       <soortWork>/join/id/stop/work_010</soortWork>
     </ExpressionIdentificatie>
     <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,7 +12,7 @@
         <heeftBestand>
           <Bestand>
             <bestandsnaam>HK_buurtnaam_Verspreide_huizen_Wieringerwerf.gml</bestandsnaam>
-            <hash>46aa66f590ed002e422642057b5bd5b68374c8fbe6d525d20304bae3ebd91aecae59d4df0e0cbaf919d4a2555c3d96107e7b8322e7b710df30a7ce9c56a008ba</hash>
+            <hash>7b36b71e7645567149ab339d0d909282079742dfb7c1a10e7cf774aef91f91641a275457df832362234eaa976a06702811b1004396f0bd12bd06f4bd0024c544</hash>
           </Bestand>
         </heeftBestand>
       </heeftBestanden>
@@ -23,7 +23,7 @@
       <alternatieveTitels>
         <alternatieveTitel/>
       </alternatieveTitels>
-      <officieleTitel>/join/id/regdata/gm1911/2022/Verspreide_huizen_Wieringerwerf</officieleTitel>
+      <officieleTitel>/join/id/regdata/gm1911/2022/intrVervVerspreide_huizen_Wieringerwerf</officieleTitel>
       <publicatieinstructie>TeConsolideren</publicatieinstructie>
       <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       <naamInformatieObject>Verspreide huizen Wieringerwerf</naamInformatieObject>
