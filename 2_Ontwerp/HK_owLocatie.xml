@@ -105,16 +105,6 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
-<!--      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebied>
-               <l:identificatie>nl.imow-gm1911.gebied.VerspreideHuizenWieringerwerf</l:identificatie>
-               <l:geometrie>
-                  <l:GeometrieRef xlink:href="53c7e086-3f3e-46bb-89d8-7e9bed95819c"/>
-               </l:geometrie>
-            </l:Gebied>
-         </ow-dc:owObject>
-      </sl:stand>-->
       <!--      <sl:stand>
          <ow-dc:owObject>
             <l:Ambtsgebied>

@@ -105,10 +105,11 @@
      </ga:locatieaanduiding>
     </ga:Gebiedsaanwijzing>
    </ow-dc:owObject>
-  </sl:stand>
+  </sl:stand>-->
   <sl:stand>
    <ow-dc:owObject>
     <ga:Gebiedsaanwijzing>
+     <ow:status>beëindigen</ow:status>
      <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.Herleven</ga:identificatie>
      <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
      <ga:naam>Verspreide Huizen Slootdorp (beëindigd per 04-04, herleefd per 07-07)</ga:naam>
@@ -118,6 +119,6 @@
      </ga:locatieaanduiding>
     </ga:Gebiedsaanwijzing>
    </ow-dc:owObject>
-  </sl:stand>-->
+  </sl:stand>
  </sl:standBestand>
 </ow-dc:owBestand>
