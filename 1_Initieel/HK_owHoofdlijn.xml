@@ -31,6 +31,9 @@
      <vt:identificatie>nl.imow-gm1911.hoofdlijn.Ongewijzigd</vt:identificatie>
      <vt:soort>testIndeling</vt:soort>
      <vt:naam>ongewijzigdeDocumentComponenten</vt:naam>
+     <vt:gerelateerdeHoofdlijn>
+      <vt:HoofdlijnRef xlink:href=""/>
+     </vt:gerelateerdeHoofdlijn>
     </vt:Hoofdlijn>
    </ow-dc:owObject>
   </sl:stand>
