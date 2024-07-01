@@ -38,7 +38,7 @@
       <vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp2subchp2p4"/>
      </vt:divisieaanduiding>
      <vt:locatieaanduiding>
-      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/>
      </vt:locatieaanduiding>
     </vt:Tekstdeel>
    </ow-dc:owObject>
@@ -76,7 +76,7 @@
       <vt:DivisietekstRef xlink:href="nl.imow-gm1911.divisietekst.chp3subchp3p4"/>
      </vt:divisieaanduiding>
      <vt:locatieaanduiding>
-      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/>
      </vt:locatieaanduiding>
     </vt:Tekstdeel>
    </ow-dc:owObject>
@@ -167,7 +167,7 @@
       <vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp5subchp5p4"/>
      </vt:divisieaanduiding>
      <vt:locatieaanduiding>
-      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/>
      </vt:locatieaanduiding>
     </vt:Tekstdeel>
    </ow-dc:owObject>
@@ -187,9 +187,7 @@
      <vt:divisieaanduiding>
       <vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp6subchp6p4"/>
      </vt:divisieaanduiding>
-     <vt:locatieaanduiding>
-      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
-     </vt:locatieaanduiding>
+     <vt:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/></vt:locatieaanduiding>
     </vt:Tekstdeel>
    </ow-dc:owObject>
   </sl:stand>
