@@ -112,9 +112,9 @@
      <ow:status>beëindigen</ow:status>
      <ow:procedurestatus>ontwerp</ow:procedurestatus>
      <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.Herleven</ga:identificatie>
-     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Verkeer</ga:type>
      <ga:naam>Verspreide Huizen Slootdorp (beëindigd per 04-04, herleefd per 07-07)</ga:naam>
-     <ga:groep>http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/Stiltegebied</ga:groep>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Reserveringsgebied</ga:groep>
      <ga:locatieaanduiding>
       <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenSlootdorp"/>
      </ga:locatieaanduiding>
