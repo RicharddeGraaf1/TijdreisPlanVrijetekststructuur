@@ -45,7 +45,7 @@
      <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.NaamWijziging</ga:identificatie>
      <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
      <ga:naam>Buitengebied Wieringerwaard (naam is nu gewijzigd)</ga:naam>
-     <ga:groep>: http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/Stiltegebied</ga:groep>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/Stiltegebied</ga:groep>
      <ga:locatieaanduiding>
       <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.BuitengebiedWieringerwaard"/>
      </ga:locatieaanduiding>
@@ -71,9 +71,9 @@
      <ow:status>beëindigen</ow:status>
      
      <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.Beeindiging</ga:identificatie>
-     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Landschap</ga:type>
      <ga:naam>Verspreide Huizen Wieringerwerf (wordt beëindigd)</ga:naam>
-     <ga:groep>: http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/Stiltegebied</ga:groep>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/landschap/id/concept/Maatregelengebied</ga:groep>
      <ga:locatieaanduiding>
       <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/>
      </ga:locatieaanduiding>
@@ -113,7 +113,7 @@
      <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.Herleven</ga:identificatie>
      <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
      <ga:naam>Verspreide Huizen Slootdorp (beëindigd per 04-04, herleefd per 07-07)</ga:naam>
-     <ga:groep>: http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/Stiltegebied</ga:groep>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/Stiltegebied</ga:groep>
      <ga:locatieaanduiding>
       <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenSlootdorp"/>
      </ga:locatieaanduiding>

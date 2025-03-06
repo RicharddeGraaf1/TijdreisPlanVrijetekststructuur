@@ -3,6 +3,7 @@
  <bestand><bestandsnaam>HK_besluit.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
  <bestand><bestandsnaam>HK_buurtnaam_Oostpolder.gml</bestandsnaam><contentType>application/gml+xml</contentType></bestand>
  <bestand><bestandsnaam>HK_buurtnaam_Oostpolder.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
+ <bestand><bestandsnaam>HK_owDivisie.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
  <bestand><bestandsnaam>HK_owGebiedsaanwijzing.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
  <bestand><bestandsnaam>HK_owHoofdlijn.xml</bestandsnaam><contentType>application/xml</contentType></bestand>
  <bestand><bestandsnaam>HK_owKaart.xml</bestandsnaam><contentType>application/xml</contentType></bestand>

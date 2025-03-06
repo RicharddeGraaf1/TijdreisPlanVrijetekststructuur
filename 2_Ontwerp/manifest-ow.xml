@@ -5,6 +5,11 @@
   <WorkIDRegeling>/akn/nl/act/gm1911/2022/TijdreisPlanVrijetekststructuur</WorkIDRegeling>
   <DoelID>/join/id/proces/gm1911/2022/OntwerpWijziging</DoelID>
   <Bestand>
+   <naam>HK_owDivisie.xml</naam>
+   <objecttype>Divisie</objecttype>
+   <objecttype>Divisietekst</objecttype>
+  </Bestand>
+  <Bestand>
    <naam>HK_owGebiedsaanwijzing.xml</naam>
    <objecttype>Gebiedsaanwijzing</objecttype>
   </Bestand>

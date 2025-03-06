@@ -38,7 +38,7 @@
       <vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp2subchp2p4"/>
      </vt:divisieaanduiding>
      <vt:locatieaanduiding>
-      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
      </vt:locatieaanduiding>
     </vt:Tekstdeel>
    </ow-dc:owObject>
@@ -47,7 +47,7 @@
   <!--<sl:stand><ow-dc:owObject><vt:Tekstdeel><ow:procedurestatus>ontwerp</ow:procedurestatus><vt:identificatie>nl.imow-gm1911.tekstdeel.chp2subchp2p6</vt:identificatie><vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie><vt:divisieaanduiding><vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp2subchp2p6"/></vt:divisieaanduiding><vt:hoofdlijnaanduiding><vt:HoofdlijnRef xlink:href="nl.imow-gm1911.hoofdlijn.BeeindigingNavIntrVerv"/></vt:hoofdlijnaanduiding><vt:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenMiddenmeer"/></vt:locatieaanduiding></vt:Tekstdeel></ow-dc:owObject></sl:stand>-->
   <!--<sl:stand><ow-dc:owObject><vt:Tekstdeel><ow:procedurestatus>ontwerp</ow:procedurestatus><vt:identificatie>nl.imow-gm1911.tekstdeel.chp2subchp2p7</vt:identificatie><vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie><vt:divisieaanduiding><vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp2subchp2p7"/></vt:divisieaanduiding><vt:hoofdlijnaanduiding><vt:HoofdlijnRef xlink:href="nl.imow-gm1911.hoofdlijn.Herleven"/></vt:hoofdlijnaanduiding><vt:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenSlootdorp"/></vt:locatieaanduiding></vt:Tekstdeel></ow-dc:owObject></sl:stand>-->
   <!--<sl:stand><ow-dc:owObject><vt:Tekstdeel><ow:procedurestatus>ontwerp</ow:procedurestatus><vt:identificatie>nl.imow-gm1911.tekstdeel.chp3subchp3p1</vt:identificatie><vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie><vt:divisieaanduiding><vt:DivisietekstRef xlink:href="nl.imow-gm1911.divisietekst.chp3subchp3p1"/></vt:divisieaanduiding><vt:hoofdlijnaanduiding><vt:HoofdlijnRef xlink:href="nl.imow-gm1911.hoofdlijn.Ongewijzigd"/></vt:hoofdlijnaanduiding><vt:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/></vt:locatieaanduiding></vt:Tekstdeel></ow-dc:owObject></sl:stand>-->
-  <sl:stand>
+<!--  <sl:stand>
    <ow-dc:owObject>
     <vt:Tekstdeel>
      <ow:procedurestatus>ontwerp</ow:procedurestatus>
@@ -64,7 +64,7 @@
      </vt:locatieaanduiding>
     </vt:Tekstdeel>
    </ow-dc:owObject>
-  </sl:stand>
+  </sl:stand>-->
   <!--<sl:stand><ow-dc:owObject><vt:Tekstdeel><ow:procedurestatus>ontwerp</ow:procedurestatus><vt:identificatie>nl.imow-gm1911.tekstdeel.chp3subchp3p3</vt:identificatie><vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie><vt:divisieaanduiding><vt:DivisietekstRef xlink:href="nl.imow-gm1911.divisietekst.chp3subchp3p3"/></vt:divisieaanduiding><vt:hoofdlijnaanduiding><vt:HoofdlijnRef xlink:href="nl.imow-gm1911.hoofdlijn.LocatieWijziging"/></vt:hoofdlijnaanduiding><vt:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.Oostpolder"/></vt:locatieaanduiding></vt:Tekstdeel></ow-dc:owObject></sl:stand>-->
   <sl:stand>
    <ow-dc:owObject>
@@ -76,7 +76,7 @@
       <vt:DivisietekstRef xlink:href="nl.imow-gm1911.divisietekst.chp3subchp3p4"/>
      </vt:divisieaanduiding>
      <vt:locatieaanduiding>
-      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
      </vt:locatieaanduiding>
     </vt:Tekstdeel>
    </ow-dc:owObject>
@@ -114,6 +114,9 @@
      <vt:divisieaanduiding>
       <vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp4subchp4p4"/>
      </vt:divisieaanduiding>
+     <vt:hoofdlijnaanduiding>
+      <vt:HoofdlijnRef xlink:href="nl.imow-gm1911.hoofdlijn.Beeindiging"/>
+     </vt:hoofdlijnaanduiding>
      <vt:locatieaanduiding>
       <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/>
      </vt:locatieaanduiding>
@@ -167,7 +170,7 @@
       <vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp5subchp5p4"/>
      </vt:divisieaanduiding>
      <vt:locatieaanduiding>
-      <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
      </vt:locatieaanduiding>
     </vt:Tekstdeel>
    </ow-dc:owObject>
@@ -187,7 +190,9 @@
      <vt:divisieaanduiding>
       <vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp6subchp6p4"/>
      </vt:divisieaanduiding>
-     <vt:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/></vt:locatieaanduiding>
+     <vt:locatieaanduiding>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
+     </vt:locatieaanduiding>
     </vt:Tekstdeel>
    </ow-dc:owObject>
   </sl:stand>
@@ -289,5 +294,35 @@
   <!--<sl:stand><ow-dc:owObject><vt:Tekstdeel><ow:procedurestatus>ontwerp</ow:procedurestatus><vt:identificatie>nl.imow-gm1911.tekstdeel.chp8subchp8p10</vt:identificatie><vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie><vt:divisieaanduiding><vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp8subchp8p10"/></vt:divisieaanduiding><vt:hoofdlijnaanduiding><vt:HoofdlijnRef xlink:href="nl.imow-gm1911.hoofdlijn.IntrekkenVervangen"/></vt:hoofdlijnaanduiding><vt:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenKreileroord"/></vt:locatieaanduiding></vt:Tekstdeel></ow-dc:owObject></sl:stand>-->
   <!--<sl:stand><ow-dc:owObject><vt:Tekstdeel><ow:procedurestatus>ontwerp</ow:procedurestatus><vt:identificatie>nl.imow-gm1911.tekstdeel.chp9subchp9p1</vt:identificatie><vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie><vt:divisieaanduiding><vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp9subchp9p1"/></vt:divisieaanduiding><vt:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/></vt:locatieaanduiding></vt:Tekstdeel></ow-dc:owObject></sl:stand>-->
   <!--<sl:stand><ow-dc:owObject><vt:Tekstdeel><ow:procedurestatus>ontwerp</ow:procedurestatus><vt:identificatie>nl.imow-gm1911.tekstdeel.chp9subchp9p2</vt:identificatie><vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie><vt:divisieaanduiding><vt:DivisietekstRef xlink:href="nl.imow-gm1911.divisietekst.chp9subchp9p1"/></vt:divisieaanduiding><vt:locatieaanduiding><l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/></vt:locatieaanduiding></vt:Tekstdeel></ow-dc:owObject></sl:stand>-->
+  <sl:stand>
+   <ow-dc:owObject>
+    <vt:Tekstdeel>
+     <ow:procedurestatus>ontwerp</ow:procedurestatus>
+     <vt:identificatie>nl.imow-gm1911.tekstdeel.chp8subchp11p1</vt:identificatie>
+     <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+     <vt:divisieaanduiding>
+      <vt:DivisieRef xlink:href="nl.imow-gm1911.divisie.chp8subchp8p11"/>
+     </vt:divisieaanduiding>
+     <vt:locatieaanduiding>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
+     </vt:locatieaanduiding>
+    </vt:Tekstdeel>
+   </ow-dc:owObject>
+  </sl:stand>
+  <sl:stand>
+   <ow-dc:owObject>
+    <vt:Tekstdeel>
+     <ow:procedurestatus>ontwerp</ow:procedurestatus>
+     <vt:identificatie>nl.imow-gm1911.tekstdeel.chp8subchp11p2</vt:identificatie>
+     <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact </vt:idealisatie>
+     <vt:divisieaanduiding>
+      <vt:DivisietekstRef xlink:href="nl.imow-gm1911.divisietekst.2024020000"/>
+     </vt:divisieaanduiding>
+     <vt:locatieaanduiding>
+      <l:LocatieRef xlink:href="nl.imow-gm1911.ambtsgebied.kadastertest"/>
+     </vt:locatieaanduiding>
+    </vt:Tekstdeel>
+   </ow-dc:owObject>
+  </sl:stand>
  </sl:standBestand>
 </ow-dc:owBestand>

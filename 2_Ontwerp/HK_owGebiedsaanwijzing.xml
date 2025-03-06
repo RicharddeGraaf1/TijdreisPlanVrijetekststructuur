@@ -43,9 +43,9 @@
     <ga:Gebiedsaanwijzing>
      <ow:procedurestatus>ontwerp</ow:procedurestatus>
      <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.NaamWijziging</ga:identificatie>
-     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Verkeer</ga:type>
      <ga:naam>Buitengebied Wieringerwaard (naam is nu gewijzigd)</ga:naam>
-     <ga:groep>http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/Stiltegebied</ga:groep>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Reserveringsgebied</ga:groep>
      <ga:locatieaanduiding>
       <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.BuitengebiedWieringerwaard"/>
      </ga:locatieaanduiding>
@@ -71,9 +71,9 @@
      <ow:status>beëindigen</ow:status>
      <ow:procedurestatus>ontwerp</ow:procedurestatus>
      <ga:identificatie>nl.imow-gm1911.gebiedsaanwijzing.Beeindiging</ga:identificatie>
-     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Functie</ga:type>
+     <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Verkeer</ga:type>
      <ga:naam>Verspreide Huizen Wieringerwerf (wordt beëindigd)</ga:naam>
-     <ga:groep>http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/Stiltegebied</ga:groep>
+     <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Reserveringsgebied</ga:groep>
      <ga:locatieaanduiding>
       <l:LocatieRef xlink:href="nl.imow-gm1911.gebiedengroep.VerspreideHuizenWieringerwerf"/>
      </ga:locatieaanduiding>
